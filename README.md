@@ -42,3 +42,5 @@ Possible error codes are:
 ## LICENSE
 
 Apache (see LICENSE.md)
+
+by https://github.com/hiddentao/cordova-plugin-filepath
